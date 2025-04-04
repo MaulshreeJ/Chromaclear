@@ -1,4 +1,4 @@
-# ChromaClear
+# ChromaClear : The Color Kind Sketch Wizard
 
 ChromaClear is a C++ application that simulates different types of color blindness on images using OpenCV. It allows users to visualize how images appear to individuals with various types of color vision deficiencies.
 
